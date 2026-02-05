@@ -17,7 +17,7 @@ Data Scientist | NLP & LLM Engineer
 
 ## Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,fastapi,postgresql,docker,git,postman)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,HuggingFace,fastapi,postgresql,docker,git,postman)
 
 
 ##  Hobbies & Interests
