@@ -20,6 +20,7 @@ Data Scientist | NLP & LLM Engineer
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,huggingface,fastapi,postgresql,docker,git,postman)
 
 
+
 ##  Hobbies & Interests
 - 🧶 Crochet  
 - 🏃‍♀️ Running  
