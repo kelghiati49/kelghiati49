@@ -13,9 +13,11 @@ I have technical experience and interest in:
 - MLOps
 - Generative AI
 - Data Analysis
-- Deploiement
+- Deployement
 
 Languages and Tools:
+![Python](https://skillicons.dev/icons?i=python)
+![Docker](https://skillicons.dev/icons?i=docker)
 <!--
 **kelghiati49/kelghiati49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
