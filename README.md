@@ -5,7 +5,7 @@
 Data Scientist | NLP & LLM Engineer
 </p>
 
-I have technical experience and interest in:
+## I have technical experience and interest in:
 - Deep Learning
 - Machine Learning
 - Computer vision
@@ -15,13 +15,12 @@ I have technical experience and interest in:
 - Data Analysis
 - Deployement
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,fastapi,postgresql,docker,git,postman)
 
----
 
-## 🌱 Hobbies & Interests
+##  Hobbies & Interests
 - 🧶 Crochet  
 - 🏃‍♀️ Running  
 - 💻 Coding  
