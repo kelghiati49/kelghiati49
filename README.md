@@ -1,5 +1,21 @@
-## Hi there 👋
+##  😄 Hey! Nice to see you.
 
+<h2 align="center">I'm Khaoula 👋</h2>
+<p align="center">
+Data Scientist | NLP & LLM Engineer
+</p>
+
+I have technical experience and interest in:
+- Deep Learning
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- MLOps
+- Generative AI
+- Data Analysis
+- Deploiement
+
+Languages and Tools:
 <!--
 **kelghiati49/kelghiati49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
