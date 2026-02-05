@@ -15,27 +15,23 @@ I have technical experience and interest in:
 - Data Analysis
 - Deployement
 
-Languages and Tools:
+## 🛠 Languages & Tools
 
-![Python](https://skillicons.dev/icons?i=python)
-![Docker](https://skillicons.dev/icons?i=docker)
-![GIT](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Pytorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit Learn](https://skillicons.dev/icons?i=scikitlearn)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Postgresql](https://skillicons.dev/icons?i=postgresql)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,fastapi,postgresql,docker,git,postman)
 
-My Hobbies and interests:
+---
 
-- Crochet
-- Running
-- coding
+## 🌱 Hobbies & Interests
+- 🧶 Crochet  
+- 🏃‍♀️ Running  
+- 💻 Coding  
 
-You can Also Find Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/...)
+## 🔗 You can also find me here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-el-ghiati-a02347217/)
+
 
 <!--
 **kelghiati49/kelghiati49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
